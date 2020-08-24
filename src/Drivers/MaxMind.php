@@ -16,7 +16,7 @@ class MaxMind extends Driver
     {
         return;
     }
-
+ 
     /**
      * {@inheritdoc}
      */
